@@ -1,8 +1,8 @@
 
 public interface ImagemTarget {
 	
-	void carregarImagem();
+	void carregarImagem(Imagem imagem);
 	
-	void desenharImagem();
+	void desenharImagem(Imagem imagem);
 
 }
