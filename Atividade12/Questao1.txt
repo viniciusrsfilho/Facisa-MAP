@@ -1,0 +1,4 @@
+Parte I - Porque a implementação da Playlist tem repetição do bloco switch-case? Existe uma alternativa para retirarmos esta duplicação de código? Qual? 
+
+A primeira implementação, do construtor, é para criar a playlist e ordenar, a segunda é para mudar a ordem da playlist. Sim, quando criar a playlist, ordenar
+de uma forma pré-definida e ter apenas o switch do método set.
