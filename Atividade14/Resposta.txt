@@ -1,0 +1,6 @@
+A diferença entre os códigos java e go são: 
+- Em go quando se usa composição, os campos que está na classe que está compondo, passa
+para a classe que vai compor, parecido com a herança no java. Já no Java, pela composição
+não passa os campos, entao é necessário criar os atributos;
+- Na questão da interface, no go só é necessário colocar todos os métodos que ele vai ser do tipo
+da interface. No java é necessário implementar a interface na classe para ser daquele tipo.
